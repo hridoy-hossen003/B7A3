@@ -2,13 +2,7 @@
 
 ## Overview & Objectives
 
-This assignment is designed to evaluate your understanding of database table design, ERD relationships, and intermediate-to-advanced SQL queries. You will work with a simplified **Football Ticket Booking System** database.
-
-By completing this assignment, you will be able to:
-
-- Design an ERD with 1-to-1, 1-to-Many, and Many-to-1 relationships.
-- Understand primary keys, foreign keys, and referential integrity.
-- Write complex SQL queries using `JOIN` variants, subqueries, aggregations, pattern matching, null handling, and pagination.
+This assignment is designed to evaluate my understanding of database table design, ERD relationships, and intermediate-to-advanced SQL queries. You will work with a simplified **Football Ticket Booking System** database.
 
 ## Database Design & Business Logic
 
